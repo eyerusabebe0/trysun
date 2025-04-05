@@ -1,0 +1,11 @@
+body{font-family: sans-serif;background-color: black;}
+.contain{max-width: 450px;height: auto;background-color: rgb(156, 157, 158);margin-bottom: 40px;}
+.ci{background-color: red;text-align: center;width:45px;height: auto;border-radius: 200%;justify-self: center;}
+.no{color: red;font-size: 70px;text-align: center;margin: 30px 2px;}
+.oo{color: rgb(209, 76, 76);text-align: center;font-size: 50px;margin-top: -30px;margin-bottom: -70px;}
+.foo{color: white;margin: -20px 9px;font-weight: bold;}
+.container{ width: 450px;margin: 0 auto;}
+a{background-color: rgb(124, 57, 57);color: white;text-align: center;
+padding:15px 20px ;width: 50px;height: auto;justify-content: center;
+align-items: center;}
+a:hover{background-color: white;color:rgb(124, 57, 57) ;text-decoration: none;}
